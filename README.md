@@ -1,2 +1,2 @@
-# songlyrics
-songlyricsusingpython
+SongLyrics
+Python
